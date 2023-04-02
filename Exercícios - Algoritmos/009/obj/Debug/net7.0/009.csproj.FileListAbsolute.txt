@@ -1,0 +1,15 @@
+C:\Users\macie\OneDrive\Área de Trabalho\Repositórios\C-Sharp\Exercícios - Algoritmos\009\obj\Debug\net7.0\009.csproj.AssemblyReference.cache
+C:\Users\macie\OneDrive\Área de Trabalho\Repositórios\C-Sharp\Exercícios - Algoritmos\009\obj\Debug\net7.0\009.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\macie\OneDrive\Área de Trabalho\Repositórios\C-Sharp\Exercícios - Algoritmos\009\obj\Debug\net7.0\009.AssemblyInfoInputs.cache
+C:\Users\macie\OneDrive\Área de Trabalho\Repositórios\C-Sharp\Exercícios - Algoritmos\009\obj\Debug\net7.0\009.AssemblyInfo.cs
+C:\Users\macie\OneDrive\Área de Trabalho\Repositórios\C-Sharp\Exercícios - Algoritmos\009\obj\Debug\net7.0\009.csproj.CoreCompileInputs.cache
+C:\Users\macie\OneDrive\Área de Trabalho\Repositórios\C-Sharp\Exercícios - Algoritmos\009\bin\Debug\net7.0\009.exe
+C:\Users\macie\OneDrive\Área de Trabalho\Repositórios\C-Sharp\Exercícios - Algoritmos\009\bin\Debug\net7.0\009.deps.json
+C:\Users\macie\OneDrive\Área de Trabalho\Repositórios\C-Sharp\Exercícios - Algoritmos\009\bin\Debug\net7.0\009.runtimeconfig.json
+C:\Users\macie\OneDrive\Área de Trabalho\Repositórios\C-Sharp\Exercícios - Algoritmos\009\bin\Debug\net7.0\009.dll
+C:\Users\macie\OneDrive\Área de Trabalho\Repositórios\C-Sharp\Exercícios - Algoritmos\009\bin\Debug\net7.0\009.pdb
+C:\Users\macie\OneDrive\Área de Trabalho\Repositórios\C-Sharp\Exercícios - Algoritmos\009\obj\Debug\net7.0\009.dll
+C:\Users\macie\OneDrive\Área de Trabalho\Repositórios\C-Sharp\Exercícios - Algoritmos\009\obj\Debug\net7.0\refint\009.dll
+C:\Users\macie\OneDrive\Área de Trabalho\Repositórios\C-Sharp\Exercícios - Algoritmos\009\obj\Debug\net7.0\009.pdb
+C:\Users\macie\OneDrive\Área de Trabalho\Repositórios\C-Sharp\Exercícios - Algoritmos\009\obj\Debug\net7.0\009.genruntimeconfig.cache
+C:\Users\macie\OneDrive\Área de Trabalho\Repositórios\C-Sharp\Exercícios - Algoritmos\009\obj\Debug\net7.0\ref\009.dll
