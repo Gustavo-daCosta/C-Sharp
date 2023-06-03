@@ -1,0 +1,15 @@
+C:\Users\macie\OneDrive\Área de Trabalho\Repositórios\C-Sharp\Map Data to CSV\bin\Debug\net7.0\Map Data to CSV.exe
+C:\Users\macie\OneDrive\Área de Trabalho\Repositórios\C-Sharp\Map Data to CSV\bin\Debug\net7.0\Map Data to CSV.deps.json
+C:\Users\macie\OneDrive\Área de Trabalho\Repositórios\C-Sharp\Map Data to CSV\bin\Debug\net7.0\Map Data to CSV.runtimeconfig.json
+C:\Users\macie\OneDrive\Área de Trabalho\Repositórios\C-Sharp\Map Data to CSV\bin\Debug\net7.0\Map Data to CSV.dll
+C:\Users\macie\OneDrive\Área de Trabalho\Repositórios\C-Sharp\Map Data to CSV\bin\Debug\net7.0\Map Data to CSV.pdb
+C:\Users\macie\OneDrive\Área de Trabalho\Repositórios\C-Sharp\Map Data to CSV\obj\Debug\net7.0\Map Data to CSV.csproj.AssemblyReference.cache
+C:\Users\macie\OneDrive\Área de Trabalho\Repositórios\C-Sharp\Map Data to CSV\obj\Debug\net7.0\Map Data to CSV.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\macie\OneDrive\Área de Trabalho\Repositórios\C-Sharp\Map Data to CSV\obj\Debug\net7.0\Map Data to CSV.AssemblyInfoInputs.cache
+C:\Users\macie\OneDrive\Área de Trabalho\Repositórios\C-Sharp\Map Data to CSV\obj\Debug\net7.0\Map Data to CSV.AssemblyInfo.cs
+C:\Users\macie\OneDrive\Área de Trabalho\Repositórios\C-Sharp\Map Data to CSV\obj\Debug\net7.0\Map Data to CSV.csproj.CoreCompileInputs.cache
+C:\Users\macie\OneDrive\Área de Trabalho\Repositórios\C-Sharp\Map Data to CSV\obj\Debug\net7.0\Map Data to CSV.dll
+C:\Users\macie\OneDrive\Área de Trabalho\Repositórios\C-Sharp\Map Data to CSV\obj\Debug\net7.0\refint\Map Data to CSV.dll
+C:\Users\macie\OneDrive\Área de Trabalho\Repositórios\C-Sharp\Map Data to CSV\obj\Debug\net7.0\Map Data to CSV.pdb
+C:\Users\macie\OneDrive\Área de Trabalho\Repositórios\C-Sharp\Map Data to CSV\obj\Debug\net7.0\Map Data to CSV.genruntimeconfig.cache
+C:\Users\macie\OneDrive\Área de Trabalho\Repositórios\C-Sharp\Map Data to CSV\obj\Debug\net7.0\ref\Map Data to CSV.dll

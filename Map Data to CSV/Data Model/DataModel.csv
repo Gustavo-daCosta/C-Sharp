@@ -1,0 +1,209 @@
+Country,Value,Group,Coordinates,Label
+Afghanistan,9,Group B,34.4754 66.8303,Afghanistan
+Albania,6,Group B,41.1413 20.0325,Albania
+Algeria,9,Group B,27.5231 3.1685,Algeria
+Andorra,5,Group C,42.5413 1.5609,Andorra
+Angola,8,Group B,-12.2916 17.5029,Angola
+Anguilla,9,Group C,18.2245 -63.0574,Anguilla
+Antigua and Barbuda,2,Group B,17.079 -61.804,Antigua and Barbuda
+Argentina,2,Group B,-31.9447 -64.1398,Argentina
+Armenia,9,Group D,40.2165 45.0003,Armenia
+Arunachal Pradesh (disputed territory),5,Group D,28.172 94.4835,Arunachal Pradesh (disputed territory)
+Australia,5,Group B,-23.079 132.842,Australia
+Austria,7,Group C,47.614 14.0762,Austria
+Azerbaijan,5,Group D,40.2805 47.6804,Azerbaijan
+Bahamas,8,Group A,24.5065 -77.916,Bahamas
+Bahrain,9,Group B,26.0165 50.5475,Bahrain
+Bangladesh,5,Group B,23.5391 89.8049,Bangladesh
+Barbados,8,Group B,13.1645 -59.5405,Barbados
+Belarus,7,Group B,53.744 27.947,Belarus
+Belgium,5,Group A,50.6522 4.5809,Belgium
+Belize,7,Group D,17.197 -88.7035,Belize
+Benin,1,Group B,10.6795 2.2845,Benin
+Bhutan,5,Group C,27.5075 90.4695,Bhutan
+Bolivia,6,Group C,-16.7289 -64.6413,Bolivia
+Bosnia and Herzegovina,3,Group C,44.1809 17.8168,Bosnia and Herzegovina
+Botswana,8,Group A,-21.6721 23.9051,Botswana
+Brazil,4,Group B,-12.4328 -48.9943,Brazil
+British Virgin Islands,6,Group B,18.4242 -64.6216,British Virgin Islands
+Brunei Darussalam,10,Group B,4.6904 114.9152,Brunei Darussalam
+Bulgaria,4,Group A,42.7345 23.8815,Bulgaria
+Burkina Faso,7,Group B,13.0516 -0.6541,Burkina Faso
+Burundi,3,Group D,-3.407 29.8885,Burundi
+Cambodia,3,Group D,12.5285 104.3905,Cambodia
+Cameroon,3,Group B,4.5495 11.3105,Cameroon
+Canada,3,Group D,58.838 -120.439,Canada
+Cabo Verde,8,Group D,15.0819 -23.6368,Cabo Verde
+Central African Republic,5,Group A,7.2596 21.6691,Central African Republic
+Chad,9,Group D,17.1223 19.3602,Chad
+Chile,0,Group C,-45.7382 -72.9381,Chile
+China,4,Group A,32.205 109.444,China
+Colombia,3,Group B,3.6525 -73.3121,Colombia
+Comoros,3,Group D,-11.79 43.356,Comoros
+Congo,1,Group B,0.0213 16.1533,Congo
+Cook Islands (New Zealand),4,Group C,-21.2194 -159.7867,Cook Islands (New Zealand)
+Costa Rica,2,Group B,9.9656 -84.1755,Costa Rica
+Côte d’Ivoire,9,Group C,7.5538 -5.6121,Côte d’Ivoire
+Croatia,9,Group B,46.001 16.172,Croatia
+Cuba,2,Group A,20.2717 -75.3897,Cuba
+Cyprus,2,Group C,34.8725 33.131,Cyprus
+Czechia,8,Group D,49.836 15.5465,Czechia
+Democratic Republic of the Congo,5,Group B,-1.6864 23.7526,Democratic Republic of the Congo
+Greenland,4,Group D,74.4231 -39.7294,Greenland
+Denmark,6,Group C,56.2196 9.3108,Denmark
+Djibouti,3,Group C,12.169 42.904,Djibouti
+Dominica,9,Group A,15.4365 -61.357,Dominica
+Dominican Republic,3,Group D,18.8845 -70.4623,Dominican Republic
+Ecuador,8,Group C,-1.4547 -78.3841,Ecuador
+Egypt,9,Group C,26.1939 28.8939,Egypt
+El Salvador,9,Group B,13.7262 -88.8729,El Salvador
+Equatorial Guinea,8,Group D,1.647 10.2955,Equatorial Guinea
+Eritrea,10,Group C,15.9194 38.4016,Eritrea
+Estonia,3,Group D,58.5425 26.5455,Estonia
+Eswatini,7,Group A,-26.4899 31.3955,Eswatini
+Ethiopia,2,Group A,8.83 38.362,Ethiopia
+Fiji,10,Group D,-17.814 177.759,Fiji
+Finland,3,Group C,63.0704 27.7396,Finland
+France,7,Group B,46.6113 2.3336,France
+Gabon,7,Group C,-0.647 11.6875,Gabon
+Gambia,10,Group D,13.5035 -14.2265,Gambia
+Georgia,4,Group B,42.1618 43.4818,Georgia
+Germany,2,Group C,51.143 9.829,Germany
+Ghana,3,Group A,6.862 -1.092,Ghana
+Greece,1,Group B,38.4414 22.1814,Greece
+Grenada,1,Group C,12.1178 -61.6791,Grenada
+Guatemala,3,Group B,15.2365 -90.7275,Guatemala
+Guinea,9,Group C,10.6071 -13.1511,Guinea
+Guinea-Bissau,9,Group A,12.0227 -15.1106,Guinea-Bissau
+Guyana,6,Group B,4.8175 -58.9745,Guyana
+Haiti,5,Group C,19.4448 -72.1017,Haiti
+Honduras,1,Group B,14.8229 -86.5899,Honduras
+Hong Kong,9,Group D,22.411 114.1485,Hong Kong
+Hungary,9,Group C,47.192 20.498,Hungary
+Iceland,1,Group A,65.0115 -18.968,Iceland
+India,4,Group B,22.5754 78.8386,India
+Indonesia,4,Group B,-0.9517 114.2118,Indonesia
+Iran,1,Group B,31.9382 55.5426,Iran
+Iraq,9,Group A,33.242 42.935,Iraq
+Ireland,7,Group D,53.1805 -8.01,Ireland
+Israel,1,Group B,30.728 34.662,Israel
+Italy,4,Group B,45.3889 10.7776,Italy
+Jamaica,5,Group C,18.1125 -77.269,Jamaica
+Japan,1,Group C,36.8513 139.1112,Japan
+Jordan,2,Group B,30.7659 36.4909,Jordan
+Kazakhstan,3,Group C,48.9437 67.6303,Kazakhstan
+Kenya,7,Group A,0.4145 37.8745,Kenya
+Kiribati,3,Group A,1.8719 202.6221,Kiribati
+Democratic People’s Republic of Korea,4,Group A,39.6627 126.2592,Democratic People’s Republic of Korea
+Republic of Korea,6,Group B,36.0655 127.7929,Republic of Korea
+Kosovo (under UNSCR 1244),4,Group C,42.5794 20.8954,Kosovo (under UNSCR 1244)
+Kuwait,7,Group B,29.3073 47.6003,Kuwait
+Kyrgyzstan,6,Group C,41.7909 74.9911,Kyrgyzstan
+Lao People’s Democratic Republic,1,Group D,19.9325 102.4435,Lao People’s Democratic Republic
+Latvia,7,Group B,56.7925 26.9435,Latvia
+Lebanon,9,Group C,33.9117 35.8708,Lebanon
+Lesotho,1,Group C,-29.6255 28.1698,Lesotho
+Liberia,2,Group C,6.7929 -9.9769,Liberia
+Libya,1,Group A,25.9354 20.7569,Libya
+Liechtenstein,3,Group A,47.122 9.546,Liechtenstein
+Lithuania,4,Group A,55.1395 23.822,Lithuania
+Luxembourg,1,Group C,49.7275 5.9585,Luxembourg
+Macao,6,Group C,22.1348 113.5571,Macao
+Madagascar,2,Group B,-18.821 46.8655,Madagascar
+Malawi,6,Group A,-13.3315 33.8445,Malawi
+Malaysia,5,Group A,5.3893 117.3568,Malaysia
+Maldives,6,Group B,4.1909 73.5081,Maldives
+Mali,7,Group C,18.4654 -1.9417,Mali
+Malta,1,Group C,35.8975 14.4185,Malta
+Marshall islands,8,Group B,7.1195 171.0875,Marshall islands
+Mauritania,7,Group C,19.1695 -9.4755,Mauritania
+Mauritius,3,Group B,-20.2793 57.5696,Mauritius
+Mexico,3,Group B,23.63 -101.97,Mexico
+Micronesia (Federated States of),9,Group A,6.8827 158.234,Micronesia (Federated States of)
+Moldova,2,Group B,47.2036 28.4105,Moldova
+Monaco,6,Group C,43.7399 7.3989,Monaco
+Mongolia,1,Group C,46.1689 105.3854,Mongolia
+Montenegro,3,Group B,42.7891 19.2862,Montenegro
+Montserrat,1,Group C,16.7375 -62.1874,Montserrat
+Morocco,10,Group A,31.7 -7.1325,Morocco
+Mozambique,1,Group C,-13.497 38.127,Mozambique
+Myanmar,2,Group D,21.5841 96.1867,Myanmar
+Namibia,3,Group A,-20.7238 17.0299,Namibia
+Nauru,8,Group B,-0.521 166.9325,Nauru
+Nepal,8,Group C,28.9136 81.5974,Nepal
+Netherlands,7,Group B,52.157 5.2035,Netherlands
+New Zealand,6,Group C,-44.7201 169.9667,New Zealand
+Nicaragua,1,Group C,12.8482 -85.0204,Nicaragua
+Niger,5,Group D,17.3457 9.3245,Niger
+Nigeria,6,Group D,9.6551 8.1061,Nigeria
+Niue (New Zealand),6,Group D,-19.0535 -169.8665,Niue (New Zealand)
+North Macedonia,5,Group B,41.6059 21.6977,North Macedonia
+Norway,9,Group C,60.5366 7.4496,Norway
+Oman,10,Group C,22.019 57.368,Oman
+Pakistan,10,Group B,29.3252 68.7733,Pakistan
+Palau,6,Group C,7.5364 134.583,Palau
+State of Palestine,4,Group C,31.9479 35.2478,State of Palestine
+Panama,3,Group C,8.4165 -81.7705,Panama
+Papua New Guinea,2,Group D,-6.1227 143.5162,Papua New Guinea
+Paraguay,10,Group D,-21.9074 -60.1206,Paraguay
+Peru,4,Group A,-13.1699 -73.0464,Peru
+Philippines,1,Group C,17.3711 121.4954,Philippines
+Poland,8,Group C,52.1484 19.311,Poland
+Portugal,5,Group A,38.7993 -8.3502,Portugal
+Puerto Rico (USA),8,Group B,18.234 -66.955,Puerto Rico (USA)
+Qatar,6,Group A,25.3217 51.1836,Qatar
+Romania,4,Group C,45.857 24.9433,Romania
+Russian Federation,10,Group B,63.4218 94.1005,Russian Federation
+Rwanda,1,Group B,-2.0136 29.9188,Rwanda
+Saint Kitts and Nevis,1,Group B,17.3322 -62.7583,Saint Kitts and Nevis
+Saint Lucia,8,Group C,13.9027 -60.9703,Saint Lucia
+Saint Vincent and the Grenadines,4,Group D,13.2566 -61.1938,Saint Vincent and the Grenadines
+Samoa,5,Group A,-13.6305 -172.4382,Samoa
+San Marino,1,Group A,43.9365 12.4423,San Marino
+Sao Tome and Principe,4,Group B,0.2356 6.6075,Sao Tome and Principe
+Saudi Arabia,9,Group D,23.7603 45.0093,Saudi Arabia
+Senegal,1,Group B,14.9983 -14.9588,Senegal
+Serbia,2,Group B,44.2085 20.7935,Serbia
+Seychelles,3,Group C,-4.6761 55.4673,Seychelles
+Sierra Leone,2,Group A,8.5306 -11.7953,Sierra Leone
+Singapore,9,Group D,1.3565 103.8215,Singapore
+Slovakia,6,Group C,48.7266 19.5075,Slovakia
+Slovenia,6,Group B,46.152 15.1315,Slovenia
+Solomon islands,5,Group C,-9.6225 160.1702,Solomon islands
+Somalia,3,Group B,2.7588 42.8849,Somalia
+South Africa,5,Group A,-29.6482 23.1067,South Africa
+South Sudan,6,Group B,7.2928 30.1985,South Sudan
+Spain,5,Group C,40.3544 -3.611,Spain
+Sri Lanka,4,Group B,7.7004 80.6672,Sri Lanka
+Sudan,0,Group C,16.5644 29.0451,Sudan
+Suriname,9,Group C,4.1199 -55.9116,Suriname
+Sweden,1,Group A,58.581 14.246,Sweden
+Switzerland,3,Group C,46.7919 8.1183,Switzerland
+Syrian Arab Republic,0,Group B,35.0126 38.5441,Syrian Arab Republic
+Tajikistan,3,Group D,38.3213 72.1918,Tajikistan
+Tanzania,2,Group C,-5.6989 34.2839,Tanzania
+Thailand,8,Group C,15.4439 100.9692,Thailand
+Timor-Leste,1,Group B,-8.7676 125.9664,Timor-Leste
+Togo,1,Group C,8.8015 0.9075,Togo
+Tokelau,3,Group C,-9.3462 -171.1946,Tokelau
+Tonga,7,Group D,-21.1655 -175.2625,Tonga
+Trinidad and Tobago,4,Group A,10.4282 -61.3304,Trinidad and Tobago
+Tunisia,4,Group D,33.7774 9.0109,Tunisia
+Turkey,5,Group A,39.3196 34.3321,Turkey
+Turkmenistan,6,Group C,39.4791 59.5154,Turkmenistan
+Turks and Caicos Islands,8,Group B,21.8092 -71.7418,Turks and Caicos Islands
+Tuvalu,6,Group B,-8.5042 179.2049,Tuvalu
+Uganda,5,Group C,1.9676 32.9896,Uganda
+Ukraine,1,Group A,48.8464 33.5486,Ukraine
+United Arab Emirates,0,Group D,23.3865 54.2485,United Arab Emirates
+United Kingdom,8,Group D,52.4072 -1.7451,United Kingdom
+United States of America,8,Group D,39.382 -99.3421,United States of America
+Uruguay,0,Group D,-32.781 -56.0032,Uruguay
+Uzbekistan,9,Group B,41.8936 63.8434,Uzbekistan
+Vanuatu,6,Group B,-15.296 166.885,Vanuatu
+Holy See,1,Group B,41.9035 12.4535,Holy See
+Venezuela,6,Group B,7.1583 -64.0124,Venezuela
+Viet Nam,2,Group C,21.5866 105.3047,Viet Nam
+Yemen,7,Group C,15.3921 45.4111,Yemen
+Zambia,9,Group C,-14.9226 26.1418,Zambia
+Zimbabwe,9,Group B,-18.907 29.7885,Zimbabwe
