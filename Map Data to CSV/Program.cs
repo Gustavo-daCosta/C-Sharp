@@ -1,76 +1,78 @@
 ﻿using Map_Data_to_CSV;
 
-List<Country> GetAllCountries() {
-    List<Country> countries = new List<Country>();
+void AddCountriesToContinents() {
+    List<Country> allCountries = Globals.AllCountries;
+}
 
-    const string modelPath = "Data Model/DataModel.csv";
-    string[] linhas = File.ReadAllLines(modelPath);
+void InsertCountries(string PATH) {
+    foreach (Continent continent in Globals.Continents) {
+        List<string> linhas = new List<string>();
+        
+        foreach (Country country in continent.Countries) {
+            country.Label = country.Name;
+            string linha = $"{country.Name};{country.Value};{country.Group};{country.Coordinates};{country.Label}";
+            linhas.Add(linha);
+        }
+
+        using (var stream = File.Open(continent.PATH, FileMode.Open, FileAccess.Write, FileShare.Read)) {
+            if (File.ReadAllLines(PATH).Count() < 210) {
+                File.AppendAllLines(PATH, linhas);
+            }
+            stream.Close();
+        }
+        
+    }
+
+}
+
+
+void GetDiseasesData() {
+    const string diseasesPath = "Data Model/Disease-Data.csv";
+    const string finalDataPath = "Database/Final-Map-Data.csv";
+
+    string[] linhas = File.ReadAllLines(diseasesPath);
 
     int i = 0;
     foreach (string linha in linhas) {
         i++;
         string[] atributos = linha.Split(",");
 
-        Country country = new Country();
+        // 0 - Continente
+        // 1 - ASMR 1990
+        // 2 - Mortes 1990
+        // 3 - ASMR 2019
+        // 4 - Mortes 2019
+        // 5 - Diferença na taxa de ASMR entre 1990 e 2019
+        // ASMR = Age-Standardized Mortality Rate
 
-        if (i > 1) {
-            country.Name = atributos[0].Trim();
-            country.Value = float.Parse(atributos[1].Trim());
-            country.Group = atributos[2].Trim();
-            country.Coordinates = atributos[3].Trim();
-            country.Label = atributos[4].Trim();
-
-            countries.Add(country);
+        if (i > 1) { // Pular label
+            foreach (Continent continent in Globals.Continents) {
+                DiseaseData diseaseData = new DiseaseData(continent.Name);
+                List<float> valores = new List<float>();
+                for (int c = 0; c < 4; c++) {
+                    float valor = diseaseData.PrepareValue();
+                    valores.Add(valor);
+                }
+            }
         }
+
+        
     }
-    return countries;
+
+    using (StreamReader stream = new StreamReader(finalDataPath)) {
+
+        stream.Close();
+    }
 }
-
-// List<Country> GetCountriesFromContinent(Continent continentBase) {
-//     List<Country> allCountries = GetAllCountries();
-//     List<Country> continentCountries = new List<Country>();
-//     Country countryBase = new Country();
-
-//     foreach (Continent continent in continentBase.Continents) {
-//         if (continent.ContinentContainsCountry(continent, countryBase)) {
-//             countryBase.Continent = continent;
-//         }
-//     }
-// }
-
-// Continent FindCountryContinent(Country country) {
-    
-// }
 
 
 const string PATH = "Database/Final-Map-Data.csv";
 
-string folder = PATH.Split('/')[0];
-if (!Directory.Exists(folder)) { Directory.CreateDirectory(folder); }
-if (!File.Exists(PATH)) { File.Create(PATH); }
+
+AddCountriesToContinents();
+// InsertCountries(PATH);
 
 
-List<Country> countries = GetAllCountries();
-
-foreach (Country country in countries) {
-    Console.WriteLine($"País: {country.Name}        Grupo: {country.Group}");
-    // Thread.Sleep(500);
-}
-
-// List<Country> africaCountries = GetCountriesFromContinent(new Continent("Africa"));
-// // List<Country> 
-
-// string regionsPath = "Data Model/Regions";
-
-// for (int i = 0; i < Directory.GetFiles(regionsPath).Count(); i++) {
-//     string modelPath = Path.Combine(regionsPath, Directory.GetFiles(regionsPath)[i]);
-//     string[] linhas = File.ReadAllLines(modelPath);
-
-//     foreach (string linha in linhas) {
-//         string[] atributos = linha.Split(",");
-
-//         Country country = new Country();
-
-        
-//     }
+// foreach (Continent continent in Globals.Continents) {
+//     Console.WriteLine($"{continent.Name}: {continent.Countries.Count} countries");
 // }

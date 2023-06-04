@@ -1,38 +1,57 @@
-// namespace Map_Data_to_CSV
-// {
-//     public class Continent
-//     {
-//         public List<Continent> Continents { get; set; } = new List<Continent>{
-//             new Continent("Africa"),
-//             new Continent("America"),
-//             new Continent("Asia"),
-//             new Continent("Europe"),
-//             new Continent("Oceania")
-//         };
+namespace Map_Data_to_CSV
+{
+    public class Continent
+    {
+        public string Name { get; set; }
+        public string PATH { get; set; }
+        public List<Country> Countries { get; set; }
 
-//         public string Name { get; set; }
-//         public string PATH { get; set; }
+        public Continent(string nome) {
+            Name = nome;
+            PATH = $"Data Model/Regions/{nome}-Data.csv";
+            Countries = GetContinentCountries();
+        }
 
-//         // public Continent() {}
+        public bool ContinentContainsCountry(Continent continent, Country country) {
+            string[] linhas;
+            using (var stream = File.Open(continent.PATH, FileMode.Open, FileAccess.Write, FileShare.Read)) {
+                linhas = File.ReadAllLines(continent.PATH);
+                stream.Close();
+            }
 
-//         public Continent(string nome) {
-//             Name = nome;
-//             PATH = $"Data Model/Regions/{nome}-Data.csv";
-//         }
+            foreach (string linha in linhas) {
+                string[] atributos = linha.Split(",");
 
-//         public bool ContinentContainsCountry(Continent continent, Country country) {
-//             string[] linhas = File.ReadAllLines(continent.PATH);
+                if (!string.IsNullOrEmpty(country.Name)) {
+                    if (country.Name.ToLower() == atributos[1]) {
+                        return true;
+                    }
+                }
+            }
+            return false;
+        }
 
-//             foreach (string linha in linhas) {
-//                 string[] atributos = linha.Split(",");
+        List<Country> GetContinentCountries() {
+            List<Country> countries = new List<Country>();
+            string[] linhas;
+            using (StreamReader stream = new StreamReader(PATH)) {
+                linhas = File.ReadAllLines(PATH);
+                stream.Close();
+            }
 
-//                 if (!string.IsNullOrEmpty(country.Name)) {
-//                     if (country.Name.ToLower() == atributos[1]) {
-//                         return true;
-//                     }
-//                 }
-//             }
-//             return false;
-//         }
-//     }
-// }
+            foreach (Country country in Globals.AllCountries) {
+                foreach (string linha in linhas) {
+                    string[] atributos = linha.Split(',');
+                    Country newCountry = country;
+                    if (atributos[1] == country.Name) {
+                        newCountry.Group = Name;
+                    }
+                    if (!countries.Contains(newCountry)) {
+                        countries.Add(newCountry);
+                    }
+                }
+            }
+            return countries;
+        }
+    }
+}

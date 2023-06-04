@@ -8,8 +8,6 @@ namespace Map_Data_to_CSV
         public string? Coordinates { get; set; }
         public string? Label { get; set; }
 
-        // public Continent Continent { get; set; } = new Continent("invalid");
-
         public Country() {}
     }
 }

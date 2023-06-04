@@ -1,14 +1,14 @@
-Rank,Country,"GDP (PPP) billions of USD",Year| Country,"GDP (PPP) billions of USD",Year
--,European Union,"$20,850",2017 est.,"$25,399",2023 est.
-1,Germany,"$4,171",2017 est.,"$5,545",2023 est.
-2,Russia,"$4,008",2017 est.,"$4,998",2023 est.
-3,United Kingdom,"$2,914",2017 est.,"$3,846",2023 est.
-4,France,"$2,836",2017 est.,"$3,872",2023 est.
-5,Italy,"$2,311",2017 est.,"$3,195",2023 est.
-6,Turkey,"$2,173",2017 est.,"$3,572",2023 est.
-7,Spain,"$1,774",2017 est.,"$2,363",2023 est.
-8,Poland,"$1,121",2017 est.,"$1,705",2023 est.
-9,Netherlands,$916.1,2017 est.,"$1,290",2023 est.
+Rank,Country,GDP (PPP) billions of USD,Year| Country,GDP (PPP) billions of USD,Year
+-,European Union,$20,850,2017 est.,$25,399,2023 est.
+1,Germany,$4,171,2017 est.,$5,545,2023 est.
+2,Russia,$4,008,2017 est.,$4,998,2023 est.
+3,United Kingdom,$2,914,2017 est.,$3,846,2023 est.
+4,France,$2,836,2017 est.,$3,872,2023 est.
+5,Italy,$2,311,2017 est.,$3,195,2023 est.
+6,Turkey,$2,173,2017 est.,$3,572,2023 est.
+7,Spain,$1,774,2017 est.,$2,363,2023 est.
+8,Poland,$1,121,2017 est.,$1,705,2023 est.
+9,Netherlands,$916.1,2017 est.,$1,290,2023 est.
 10,Belgium,$528.5,2017 est.,$766,2023 est.
 11,Sweden,$520.9,2017 est.,$712,2023 est.
 12,Switzerland,$517.2,2017 est.,$774,2023 est.
@@ -52,7 +52,6 @@ Rank,Country,"GDP (PPP) billions of USD",Year| Country,"GDP (PPP) billions of US
 48,Liechtenstein,$5.0,2014 est.,-,2023 est.
 -,Guernsey,$3.5,2015 est.,-,2023 est.
 49,Andorra,$3.3,2015 est.,$5.7,2023 est.
-50,San Marino,$2.1,2017 est.,"$2,6",2023 est.
+50,San Marino,$2.1,2017 est.,$2,6,2023 est.
 -,Gibraltar,$2.0,2014 est.,-,2023 est.
 -,Faroe Islands,$2.0,2014 est.,-,2023 est.
-,Total,"$26,700",Total,"$41,141",

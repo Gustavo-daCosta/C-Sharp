@@ -1,57 +1,57 @@
-Rank,Country,"Official figure (where available)","Date of last figure",Source
-1,Nigeria,"231,625,385",2023,Worldometers[4]
-2,Ethiopia,"126,922,416",2023,[1]
-3,Egypt,"114,981,048",2023,National population clock
-4,Democratic Republic of the Congo,"96,511,548",2023,[2]
-5,Tanzania,"67,931,876",2023,Worldometers
-6,South Africa,"60,081,076",2023,Official estimate
-7,Kenya,"56,645,588",2023,Worldometers
-8,Uganda,"50,333,704",2023,National annual projection
-9,Sudan,"50,331,103",2023,Official population clock
-10,Algeria,"49,753,509",2023,Official estimate
-11,Morocco,"45,945,593",2023,Worldometers
-12,Angola,"35,405,823",2023,National projection
-13,Mozambique,"33,413,232",2023,Official estimate
-14,Ghana,"32,642,373",2023,Official estimate
-15,Madagascar,"29,434,823",2023,UN - World Population Prospects
-16,Cameroon,"28,161,144",2023,Official estimate
-17,Ivory Coast,"27,974,485",2023,National projection
-18,Niger,"27,412,604",2023,National projection
-19,Burkina Faso,"25,313,534",2023,Official estimate
-20,Mali,"24,691,072",2023,UN projection
-21,Malawi,"20,341,255",2023,National annual projection
-22,Zambia,"19,652,620",2023,Official estimate
-23,Senegal,"19,526,571",2023,Official estimate
-24,Chad,"19,515,364",2023,National projection
-25,Somalia,"19,510,528",2023,UN estimate
-26,Zimbabwe,"15,378,243",2023,National projection
-27,Guinea,"15,008,576",2023,Official estimate
-28,Rwanda,"13,736,863",2023,Official projection
-29,Benin,"12,902,012",2023,National projection
-30,Burundi,"12,767,455",2023,Official estimate
-31,Tunisia,"12,550,192",2023,National semi-projection estimate
-32,South Sudan,"11,504,110",2023,National projection
-33,Togo,"8,751,274",2023,National projection
-34,Sierra Leone,"8,368,970",2023,Official estimate
-35,Libya,"7,093,307",2023,UN projection
-36,Republic of the Congo,"5,849,868",2023,UN projection
-37,Liberia,"5,347,243",2023,National projection
-38,Central African Republic,"5,031,186",2023,[5]
-39,Mauritania,"4,949,486",2023,Official estimate
-40,Eritrea,"3,663,117",2023,[3]
-41,Namibia,"2,651,478",2023,National projection
-42,Gambia,"2,584,004",2023,UN projection
-43,Botswana,"2,466,321",2023,Annual projection
-44,Gabon,"2,353,692",2023,Official projection
-45,Lesotho,"2,182,040",2023,Census 2016
-46,Guinea-Bissau,"2,081,340",2023,Official estimate
-47,Equatorial Guinea,"1,518,007",2023,Official estimate
-48,Mauritius,"1,276,638",2023,National semi-annual estimate
-49,Eswatini,"1,188,479",2023,Official estimate
-50,Djibouti,"1,022,219",2023,Official projection
-51,Comoros,"914,472",2023,Census result
-52,Réunion,"873,102",2023,National estimate
-–,Sahrawi Arab Democratic Republic[6],"633,212",2023,[4]
-53,Cape Verde,"570,239",2023,National projection
-54,São Tomé and Príncipe,"228,950",2023,Official estimate
-55,Seychelles,"99,768",2023,National estimate
+Rank,Country,Official figure (where available),Date of last figure,Source
+1,Nigeria,231,625,385,2023,Worldometers[4]
+2,Ethiopia,126,922,416,2023,[1]
+3,Egypt,114,981,048,2023,National population clock
+4,Democratic Republic of the Congo,96,511,548,2023,[2]
+5,Tanzania,67,931,876,2023,Worldometers
+6,South Africa,60,081,076,2023,Official estimate
+7,Kenya,56,645,588,2023,Worldometers
+8,Uganda,50,333,704,2023,National annual projection
+9,Sudan,50,331,103,2023,Official population clock
+10,Algeria,49,753,509,2023,Official estimate
+11,Morocco,45,945,593,2023,Worldometers
+12,Angola,35,405,823,2023,National projection
+13,Mozambique,33,413,232,2023,Official estimate
+14,Ghana,32,642,373,2023,Official estimate
+15,Madagascar,29,434,823,2023,UN - World Population Prospects
+16,Cameroon,28,161,144,2023,Official estimate
+17,Ivory Coast,27,974,485,2023,National projection
+18,Niger,27,412,604,2023,National projection
+19,Burkina Faso,25,313,534,2023,Official estimate
+20,Mali,24,691,072,2023,UN projection
+21,Malawi,20,341,255,2023,National annual projection
+22,Zambia,19,652,620,2023,Official estimate
+23,Senegal,19,526,571,2023,Official estimate
+24,Chad,19,515,364,2023,National projection
+25,Somalia,19,510,528,2023,UN estimate
+26,Zimbabwe,15,378,243,2023,National projection
+27,Guinea,15,008,576,2023,Official estimate
+28,Rwanda,13,736,863,2023,Official projection
+29,Benin,12,902,012,2023,National projection
+30,Burundi,12,767,455,2023,Official estimate
+31,Tunisia,12,550,192,2023,National semi-projection estimate
+32,South Sudan,11,504,110,2023,National projection
+33,Togo,8,751,274,2023,National projection
+34,Sierra Leone,8,368,970,2023,Official estimate
+35,Libya,7,093,307,2023,UN projection
+36,Republic of the Congo,5,849,868,2023,UN projection
+37,Liberia,5,347,243,2023,National projection
+38,Central African Republic,5,031,186,2023,[5]
+39,Mauritania,4,949,486,2023,Official estimate
+40,Eritrea,3,663,117,2023,[3]
+41,Namibia,2,651,478,2023,National projection
+42,Gambia,2,584,004,2023,UN projection
+43,Botswana,2,466,321,2023,Annual projection
+44,Gabon,2,353,692,2023,Official projection
+45,Lesotho,2,182,040,2023,Census 2016
+46,Guinea-Bissau,2,081,340,2023,Official estimate
+47,Equatorial Guinea,1,518,007,2023,Official estimate
+48,Mauritius,1,276,638,2023,National semi-annual estimate
+49,Eswatini,1,188,479,2023,Official estimate
+50,Djibouti,1,022,219,2023,Official projection
+51,Comoros,914,472,2023,Census result
+52,Réunion,873,102,2023,National estimate
+–,Sahrawi Arab Democratic Republic,633,212,2023,[4]
+53,Cape Verde,570,239,2023,National projection
+54,São Tomé and Príncipe,228,950,2023,Official estimate
+55,Seychelles,99,768,2023,National estimate
