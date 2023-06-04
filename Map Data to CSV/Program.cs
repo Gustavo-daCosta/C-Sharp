@@ -40,14 +40,6 @@ List<DiseaseData> GetDiseasesData() {
     foreach (string linha in linhas) {
         string[] atributos = linha.Split(",");
 
-        // 0 - Continente
-        // 1 - ASMR 1990
-        // 2 - Mortes 1990
-        // 3 - ASMR 2019
-        // 4 - Mortes 2019
-        // 5 - Diferença na taxa de ASMR entre 1990 e 2019
-        // ASMR = Age-Standardized Mortality Rate
-
         foreach (Continent continent in Globals.Continents) {
             DiseaseData diseaseData = new DiseaseData(continent.Name);
             databaseDiseases.Add(diseaseData.PrepareValues(atributos, continent.Name));
@@ -95,18 +87,10 @@ List<DiseaseData> GetDiseasesData() {
 }
 
 void AlterarDadosFinalDiseases(string finalDataPath) {
-    // ler
-    // alterar valores
-    // deletar dados
-    // colocar os novos
-
     List<DiseaseData> databaseDiseases = GetDiseasesData();
     List<Country> listaPaisesFinal = new List<Country>();
-
-    // ler e capturar dados
     List<Country> countries = LerDatabaseFinal(finalDataPath);
 
-    // alterar valores
     foreach (DiseaseData diseaseData in databaseDiseases) {
         for (int i = 0; i < countries.Count(); i++) {
             if (countries[i].Group == diseaseData.ContinentName) {

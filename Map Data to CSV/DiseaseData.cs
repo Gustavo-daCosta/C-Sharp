@@ -34,56 +34,7 @@ namespace Map_Data_to_CSV
 
             List<dynamic> newAtributos = new List<dynamic>();
 
-            // Console.WriteLine(atributos.Count());
-
-            // for (int i = 0; i < atributos.Count(); i++) {
-            //     Console.WriteLine($"i: {i}");
-            //     if (i > 0) {
-
-            //         dynamic[] retorno = RemoveContentInsideParentheses(atributos[i]);
-            //         // Console.ForegroundColor = ConsoleColor.Blue;
-            //         // foreach (var item in newAtributos) {
-            //         //     Console.Write($"{item}      ");
-            //         // }
-            //         // Console.ResetColor();
-
-            //         atributos[0] = retorno[0].Trim();
-            //         foreach (string valor in atributos) {
-            //             if (retorno[1] == true) {
-            //                 // Console.WriteLine($"TEM MENOS (-)");
-                            
-            //                 try {
-            //                     newAtributos.Add(float.Parse(valor) * -1);
-                                
-            //                 } catch (SystemException error) {
-            //                     Console.ForegroundColor = ConsoleColor.Yellow;
-            //                     Console.WriteLine($"{valor}");
-            //                     Console.WriteLine(error.Message);
-            //                     Console.ResetColor();
-            //                 }
-            //             } else {
-            //                 newAtributos.Add(valor);
-            //             }
-            //         }
-
-            //         Console.WriteLine(newAtributos.Count());
-
-            //         // Console.ForegroundColor = ConsoleColor.Blue;
-            //         // foreach (var item in newAtributos) {
-            //         //     Console.Write($"{item}      ");
-            //         // }
-            //         // Console.ResetColor();
-                    
-                    
-            //     } else {
-            //         diseaseData.ContinentName = atributos[i];
-            //     }
-            // }
-
             Console.ForegroundColor = ConsoleColor.Blue;
-            // foreach (var item in newAtributos) {
-            //     Console.WriteLine($"{item}      ");
-            // }
             Console.ResetColor();
 
             diseaseData.ContinentName = atributos[0];
@@ -95,13 +46,6 @@ namespace Map_Data_to_CSV
             if (RemoveContentInsideParentheses(atributos[5])[1]) {
                 diseaseData.AsmrDiff1990_2019 = float.Parse(RemoveContentInsideParentheses(atributos[5])[0] * -1);
             }
-            
-
-            // diseaseData.Asmr1990 = float.Parse(newAtributos[1]);
-            // diseaseData.Deaths1990 = float.Parse(newAtributos[2]);
-            // diseaseData.Asmr2019 = float.Parse(newAtributos[3]);
-            // diseaseData.Deaths2019 = float.Parse(newAtributos[4]);
-            // diseaseData.AsmrDiff1990_2019 = float.Parse(newAtributos[5]);
             return diseaseData;
         }
 
@@ -114,12 +58,7 @@ namespace Map_Data_to_CSV
             } else {
                 pattern = @"\([^()]*\)";
             }
-            // Console.ForegroundColor = ConsoleColor.Red;
-            // Console.Write($"{value}       ");
             string result = Regex.Replace(value, pattern, string.Empty);
-            // Console.ForegroundColor = ConsoleColor.Green;
-            // Console.WriteLine($"{result}       ");
-            // Console.ResetColor();
 
             return new dynamic[] {result, temMenos};
         }
