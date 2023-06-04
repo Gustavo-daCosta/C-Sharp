@@ -6,6 +6,8 @@ namespace Map_Data_to_CSV
         public string PATH { get; set; }
         public List<Country> Countries { get; set; }
 
+        public Continent() {}
+
         public Continent(string nome) {
             Name = nome;
             PATH = $"Data Model/Regions/{nome}-Data.csv";
